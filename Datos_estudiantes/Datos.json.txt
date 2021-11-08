@@ -1,0 +1,54 @@
+{
+“nombres” : “Ana Esmeralda”, 
+“apellidos” : “Estrada Galindo”, 
+“carne” : “7590-21-12345”, 
+“edad” : 25, 
+“sexo” : “femenino”, 
+“carrera” : “Ingeniería en Ciencias y Sistemas”, 
+“totalCreditos” : 100, 
+“cantidadCursosAprobados” : 3, 
+“cursosAprobados” : [
+{
+“semestre” : 2, 
+“nombre” : “Algoritmos”, 
+“codigo” : “008”, 
+“zona” : 21, 
+“examenFinal” : 40, 
+“fecha” : “18/11/2021” 
+}, 
+{
+“semestre” : 2, 
+“nombre” : “Precálculo”, 
+“codigo” : “006”, 
+“zona” : 30, 
+“examenFinal” : 30, 
+“fecha” : “25/11/2021” 
+}, 
+{
+“semestre” : 2, 
+“nombre” : “Contabilidad 2”, 
+“codigo” : “009”, 
+“zona” : 25, 
+“examenFinal” : 40, 
+“fecha” : “18/11/2021” 
+}
+] , 
+“cursosReprobados” : [
+{
+“semestre” : 1, 
+“nombre” : “Lógica de Sistemas”, 
+“codigo” : “008”, 
+“zona” : 19, 
+“examenFinal” : 0, 
+“fecha” : “15/06/2021” 
+}, 
+{
+“semestre” : 1, 
+“nombre” : “Desarrollo Humano y Profesional”, 
+“codigo” : “001”, 
+“zona” : 30, 
+“examenFinal” : 24, 
+“fecha” : “23/06/2021”
+}
+]
+}
